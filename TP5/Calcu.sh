@@ -1,4 +1,7 @@
+# Parte 1 hecha por Alan Axel Hansen
+
 echo "Buenas tardes! Soy Jorge Calculadora ¿que operacion queres que haga?"
+
 
 while true; do
     echo " "

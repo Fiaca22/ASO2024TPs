@@ -1,5 +1,6 @@
 # parte 2 hecha por Alfonso Baridon Schlaps
 
+
 while true; do
     # Solicitar al usuario un nombre
     echo "Introduce un nombre:"
